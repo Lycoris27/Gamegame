@@ -61,7 +61,8 @@ crashlytics-build.properties
 #Custom ignored folders
 SpaceGame/Assets/Graphics/
 SpaceGame/Library/
-SpaceGame/UserSettings
+SpaceGame/UserSettings/
+SpaceGame/Temp/
 
 #Corresponding META files
 SpaceGame/Assets/Graphics.meta
