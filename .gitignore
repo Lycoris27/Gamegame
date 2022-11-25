@@ -59,7 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 #Custom ignored folders
-Assets/Graphics/
+SpaceGame/Assets/Graphics/
+SpaceGame/Library/
 
 #Corresponding META files
-Assets/Graphics.meta
+SpaceGame/Assets/Graphics.meta
