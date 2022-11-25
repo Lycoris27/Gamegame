@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bingus : MonoBehaviour
+public class Test : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        
+        //I hate object oriented programming 
     }
 
     // Update is called once per frame
